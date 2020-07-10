@@ -1,0 +1,1 @@
+added rainbow to our release version
